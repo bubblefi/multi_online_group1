@@ -43,7 +43,7 @@ merge, rebase 상관 없음
 # 메뉴얼
 - 메뉴얼을 작성해주세요
 
-<<<<<<< HEAD
+
 Git 기초 명령어
  - git clone [원격저장소] [로컬저장소] : 원격 저장소를 복사
 - git add : 스테이지에 올리는 작업 (stage)
@@ -112,7 +112,6 @@ revert
 다른 팀원과 소통이 안된 상태에서
 reset, branch, revert 진행할 경우 큰일남!!
 
-<<<<<<< HEAD
 
 
 =======
