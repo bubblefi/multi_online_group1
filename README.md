@@ -111,3 +111,7 @@ revert
 다른 팀원과 소통이 안된 상태에서
 reset, branch, revert 진행할 경우 큰일남!!
 
+
+
+# 인사
+- 팀원분들 수고하셨습니다! 도움 주셔서 감사합니다. Online 1 group_원지유
