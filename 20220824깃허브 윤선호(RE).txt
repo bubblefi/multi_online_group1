@@ -1,0 +1,21 @@
+20220824 깃허브 특강
+실습 : ~13:30까지 진행상황 체크하겠습니다.
+1. 자기소개_이름.pptx 파일 필요(간략한 정보, 보유디바이스, 취미, 교육에서 기대하는 점, 좌우명 등)
+2. 이미지, 아이콘, 사운드, 문서양식, 폰트 등 리소스 파일 준비
+3. github.com 회원 가입 후 공유문서에 주소 적기
+
+프로젝트 협업 도구(참고
+Jira, Redmine, Mantis, Slack, Trello, Notion, Zeplin, SVN, Git
+Teamviewer, Zoom
+
+*변경점*
+
+*내토큰
+IDE (Integrated Development Environment)
+
+# 미션
+hello.html 또는 hello.md 파일의 내용을 변경하고 커밋 실행 * 2회 이상
+
+# 팀별 깃허브 생성
+ - 팀장이 개설
+ - 팀원 초대
