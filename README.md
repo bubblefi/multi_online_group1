@@ -111,3 +111,9 @@ revert
 다른 팀원과 소통이 안된 상태에서
 reset, branch, revert 진행할 경우 큰일남!!
 
+
+
+## 인사말 남기기
+
+ - 깃허브 특강 2일간 수고하셨습니다. <multi_online_group1, 채승병>
+
